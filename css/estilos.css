@@ -1,0 +1,11 @@
+thead,tfoot{
+    background-color: rgb(248, 244, 12);
+}
+tbody{
+    background-color: cornsilk;
+    text-align: center;
+    border: darkblue;
+    border-color: blueviolet;
+    border-style: solid;
+}
+
